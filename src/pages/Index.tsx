@@ -60,16 +60,13 @@ const Index = () => {
             style={{ boxShadow: "var(--shadow-glow)" }}
           >
             <p className="text-foreground text-lg sm:text-xl leading-relaxed mb-6 font-serif">
-              I know I messed up, and I'm truly sorry. You mean the world to me,
-              and the thought of hurting you breaks my heart.
+              Hey… I just wanted to say I'm really sorry 💔
             </p>
             <p className="text-foreground text-lg sm:text-xl leading-relaxed mb-6 font-serif">
-              You deserve all the happiness in the world. Your smile lights up
-              every room, and your kindness touches everyone around you.
+              I didn't mean to hurt you, but I know I did—and that matters the most.
             </p>
             <p className="text-foreground text-lg sm:text-xl leading-relaxed mb-6 font-serif italic">
-              You are special, you are amazing, and I'm so lucky to have you
-              in my life.
+              You mean a lot to me, and I hate the thought of you being upset because of me.
             </p>
             <div className="flex items-center justify-center gap-2 text-primary mt-8">
               <Heart className="fill-primary" size={18} />
